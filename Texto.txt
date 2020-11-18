@@ -1,1 +1,2 @@
 Fichero Fabio Felice
+‘Afegeixo linea desde el repositori local’
